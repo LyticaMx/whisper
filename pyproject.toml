@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "whisper"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Alejandro Aguayo-Ortiz <aaguayoo92@gmail.com>"]
 readme = "README.md"
